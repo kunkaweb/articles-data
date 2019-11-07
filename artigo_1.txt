@@ -1,0 +1,300 @@
+Sobrecarga, sintomas depressivos e ansiosos em cuidadores principais de crianças e adolescentes em terapia renal substitutiva
+
+Angélica Godoy Torres Lima1  2 
+http://orcid.org/0000-0002-7432-0109
+
+Clécia Cristiane da Silva Sales2 
+
+Welton Flávio de Lima Serafim3 
+
+1Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco, Belo Jardim, PE, Brasil.
+
+2Instituto de Medicina Integral Professor Fernando Figueira, Recife, PE, Brasil.
+
+3Hospital Regional do Agreste, Caruaru, PE, Brasil.
+
+
+RESUMO
+
+Introdução:
+
+A doença renal crônica (DRC) na infância é rara, contudo provoca repercussões em vários aspectos da vida, pois a doença e o tratamento causam grandes transformações no cotidiano da criança e de sua família, gerando no cuidador aumento de sobrecarga.
+
+Objetivo:
+
+Avaliar a sobrecarga dos cuidadores primários de crianças e adolescentes que realizam terapia renal substitutiva (TRS).
+
+Métodos:
+
+Estudo transversal, observacional, realizado na Unidade Renal Pediátrica de um hospital-escola no Nordeste. Participaram da pesquisa 49 cuidadores primários de pacientes pediátricos com DRC em TRS acompanhados no serviço. Utilizaram-se instrumentos validados para avaliar sobrecarga, sintomas depressivos e ansiosos. Realizaram-se testes de hipóteses para analisar os achados de sobrecarga, depressão e ansiedade com o perfil da amostra.
+
+Resultados:
+
+A maioria dos cuidadores é mãe da criança (89,8%), idade entre 36 a 45 anos (46,9%), possui Ensino Fundamental (55,1%), afirmou sentir dores pelo corpo (69,4%), porém não tem doença crônica. A maioria das crianças está em TRS de 1 a 3 anos (40,8%), idade de 9 a 11 anos (30,6%), sexo masculino (55,1%), realiza hemodiálise (38,8%). Os cuidadores apresentaram nível moderado de sobrecarga (2,10), alta prevalência de sintomas depressivos (18,4%) e ansiosos (47%) moderados a graves e forte correlação de sobrecarga com depressão e ansiedade.
+
+Conclusões:
+
+Cuidar de uma criança com DRC é uma experiência intensa, com consequências negativas, devido às dúvidas sobre o futuro e quanto aos cuidados que essa criança requer. É necessário implementar ações que visem ajudar esses cuidadores a gerir melhor o cuidado, assim como seus próprios sentimentos.
+
+Palavras-chave: Cuidadores; Nefrologia; Criança; Adolescente; Depressão; Ansiedade
+
+
+INTRODUÇÃO
+
+A doença renal crônica (DRC) na infância é diferente da que acomete os adultos, visto que o maior grupo de diagnóstico entre as crianças abrange anomalias congênitas e doenças hereditárias. A prevalência da DRC na infância é rara (entre 15 e 74,7 casos por milhão de crianças). Já a incidência de crianças e adolescentes em tratamento dialítico é estimada em 15 pacientes por milhão de habitantes. Dados reunidos a partir de registros em todo o mundo sugerem boa sobrevida, mesmo quando a diálise é necessária a partir da idade neonatal.1,2,3
+
+Como condição crônica, a DRC pode acometer crianças e adolescentes, com repercussões em vários aspectos da vida, pois a doença e o tratamento causam grandes transformações no dia a dia da criança e da família, gerando momentos difíceis, com avanços e retrocessos.4
+
+Discutir sobre doença crônica na infância é desafiador, pois se espera que a criança cresça e se desenvolva em condições mais saudáveis possíveis, em contraposição a um processo que envolve sofrimento, dor, estresse. Diante desse aspecto, advêm incertezas e ambiguidades, além da necessidade de equilibrar esperança e medo em relação à nova realidade que se impõe no cotidiano da criança, do adolescente e das famílias.5
+
+Os profissionais de saúde precisam se concentrar não somente na saúde dos doentes, mas também na saúde dos cuidadores, que são um elemento chave para os cuidados em casa, visto que os pacientes estão mais propensos a não ter suas necessidades satisfeitas se o cuidador estiver com um elevado grau de sobrecarga.6
+
+Essa função, por ser muito complexa, exige preparo para a realização dos cuidados físicos e psicológicos. O familiar comumente acaba assumindo funções para as quais não está preparado, e assim acaba tendo a saúde prejudicada, tornando-se também doente.7,8
+
+A sobrecarga ou tensão relacionada ao papel de cuidador se dá por causa das respostas negativas emocionais e físicas de um cuidador para as mudanças e demandas no processo de ajudar alguém com uma deficiência física ou mental. Trata-se de um conceito multidimensional que engloba aspectos psicológicos, de saúde, sociais e impactos econômicos da prestação de cuidados. A sobrecarga é caracterizada pela quantidade de tempo e de assistência dedicada a lidar com as consequências da deficiência.8-10
+
+A prestação de cuidados tem implicações importantes para o bem-estar em longo prazo do paciente, visto que os cuidadores desempenham um papel essencial na preservação dos ganhos da reabilitação, que é otimizada se a família estiver saudável e for solidária.9,10
+
+Este estudo teve como objetivo avaliar a sobrecarga e estimar a prevalência de sintomas depressivos e ansiosos dos cuidadores primários das crianças e dos adolescentes que realizam terapia renal substitutiva em um hospital-escola da região metropolitana do Recife, além de identificar possíveis fatores associados às variáveis do desfecho.
+
+
+MÉTODOS
+
+Estudo tipo transversal, descritivo, observacional e abordagem quantitativa que avaliou 49 cuidadores principais de pacientes inseridos no programa de Terapia Renal Substitutiva (TRS) da Unidade Renal Pediátrica do Instituto de Medicina Integral Professor Fernando Figueira (IMIP), correspondendo à população de crianças e adolescentes de 1 a 15 anos em quaisquer uma das modalidades de TRS oferecidas pelo serviço (hemodiálise, diálise peritoneal e transplante renal), entre outubro a dezembro de 2016.
+
+Um dos critérios de inclusão da pesquisa era ser cuidador principal da criança ou do adolescente inserido(a) no programa de TRS. Foram excluídos cuidadores de crianças/adolescentes em terapia dialítica por agudização da doença renal crônica em tratamento conservador e aqueles que não sabiam informar sobre o processo saúde-doença da criança ou do adolescente.
+
+Foram feitas consultas aos prontuários e entrevistas estruturadas com os cuidadores principais selecionados. Não foi utilizado cálculo amostral, com o objetivo de realizar um estudo do tipo censo, pois a população total correspondia a apenas 58 cuidadores; entretanto, houve 9 perdas: 3 indivíduos elegíveis recusaram-se a participar e outros 6 não compareceram às consultas agendadas no período de coleta de dados.
+
+Os cuidadores foram convidados a participar do estudo, e lhes foi explicado o objetivo da pesquisa e o sigilo das informações dadas. Eles participaram da entrevista após a assinatura do termo de consentimento livre e esclarecido. A pesquisa foi aprovada pelo Comitê de Ética local sob o número de CAAE 58487716.0.0000.5201.
+
+O instrumento de coleta foi um questionário estruturado, baseado em referências na literatura acerca do tema abordado, elaborado pelos pesquisadores; além do uso de instrumentos validados para o português brasileiro. Para avaliação de sobrecarga de cuidadores, utilizou-se a Caregiver Burden Scale (CBS), a qual é dividida em 5 domínios: tensão geral, isolamento, decepção, envolvimento emocional e ambiente. O escore de sobrecarga em cada domínio é obtido pelo cálculo do escore médio de itens associados, sendo classificada em três níveis: baixa (1-1,99), moderada (2-2,99) e grave (3-4).
+
+Para o rastreio de depressão e ansiedade foram utilizados, respectivamente, o Inventário de Depressão de Beck (BDI) e o Inventário de Ansiedade de Beck (BAI), que são instrumentos confiáveis, com boas propriedades psicométricas. Ambos consistem em escalas de autoavaliação compostas de 21 itens, incluindo sintomas e atitudes, cuja intensidade varia de 0 a 3 - quanto maior o valor, maior a gravidade dos sintomas -, em que o escore total compreende um intervalo de 0 a 63. De acordo com Beck et al., para o BDI recomenda-se os seguintes pontos de corte: menor que 10 = sem depressão ou depressão mínima; de 10 a 18 = depressão leve a moderada; de 19 a 29 = depressão moderada a grave; de 30 a 63 = depressão grave. Para o BAI, é recomendado que o nível de ansiedade seja assim classificado: 0 a 7 = ansiedade mínima; 8 a 15 = ansiedade leve; 16 a 25 = ansiedade moderada; e 26-63 = ansiedade grave.11,12,13,14
+
+Para a análise dos dados, foi construído um banco de dados na planilha Microsoft Excel, que foi exportada para o software SPSS, versão 18. Para avaliar o perfil sociodemográfico e a presença de comorbidades, foram calculadas e construídas as respectivas distribuições de frequência. Para comparar as proporções encontradas nos níveis dos fatores avaliados, foi aplicado o teste qui-quadrado.
+
+A avaliação da sobrecarga foi realizada pela média do escore para cada domínio. Para depressão e ansiedade, foram calculadas as médias do escore e a prevalência para as classificações dos níveis avaliados. A normalidade dos escores de sobrecarga, depressão e ansiedade foi avaliada por meio do teste Kolmogorov-Smirnov. Nos casos em que a normalidade foi indicada, foram aplicados o teste t de student e o ANOVA. Nos casos em que a normalidade não foi indicada, foram aplicados o teste Mann-Whitney e o de Kruskal-Wallis.
+
+Após a análise bivariada, foi verificada uma correlação entre o escore de sobrecarga com o escore de depressão e ansiedade. Para tal avaliação, foi aplicado o teste de correlação de Spearman. Também foi ajustado um modelo linear, a fim de determinar uma expressão que estima o escore de sobrecarga a partir dos escores de depressão e ansiedade. O nível de significância foi de 5%.
+
+
+RESULTADOS
+
+Quanto à distribuição dos dados sociodemográficos dos cuidadores avaliados, conforme pode ser verificado na Tabela 1, a maioria é do sexo feminino (93,9%) e mãe do paciente (89,8%). Grande parte desses cuidadores é casada (69,4%), com idade entre 36 a 45 anos (46,9%) e estudou até o Ensino Fundamental (55,1%). Mais da metade da população do estudo (67,3%) afirma não realizar nenhum tipo de trabalho remunerado (57,6% dos cuidadores deixaram o emprego para cuidar do paciente); identificou-se que a renda familiar mensal média é de R$ 1.804,00. Cerca de um terço (36,7%) cuida da criança/do adolescente com DRC há mais de 6 anos. O teste foi significativo em todos os fatores avaliados, exceto no fator "tempo que cuida da criança/do adolescente com DRC (p-valor = 0,201)", indicando que o número de cuidadores é semelhante entre as categorias.
+
+Tabela 1 Distribuição dos dados sociodemográficos dos cuidadores e das crianças em Terapia Renal Substitutiva 
+
+Fator avaliado	N	%	p-valor
+Sexo			
+Masculino	3	6,1	< 0,001
+Feminino	46	93,9
+Idade			
+24 a 35 anos	19	38,8	0,014
+36 a 45 anos	23	46,9
+46 a 56 anos	7	14,3	
+Escolaridade			
+Analfabeto (0)	2	4,1	< 0,001
+Fundamental (1 a 9)	27	55,1
+Médio (10 a 12)	16	32,7
+Superior (Acima de 12)	4	8,2
+Estado civil			
+Solteiro	12	24,5	< 0,001
+Casado	34	69,4
+Divorciado	3	6,1
+Relação cuidador-paciente			
+Mãe	44	89,8	< 0,001
+Pai	1	2,0
+Avó/avô	2	4,1
+Outro	2	4,1
+Trabalha			
+Sim	16	32,7	0,015
+Não	33	67,3
+Por que não trabalha			
+Deixou o emprego para cuidar	19	57,6	0,001
+Dona de casa	12	36,4
+Pensionista	2	6,1
+Há quanto tempo cuida da criança/do adolescente com DCR			
+Até 1 ano	8	16,3	0,2011
+Acima de 1 a 3 anos	13	26,5
+Acima de 3 a 6 anos	10	20,4
+Acima de 6 anos	18	36,7
+Renda mensal			
+Mínimo - máximo	300 - 10000	-	
+Média ±desvio-padrão	1804 ± 1733	-	
+Idade da criança			
+Menos de 9 anos	10	20,4	0,752
+9 a 11 anos	15	30,6
+12 a 13 anos	13	26,5
+14 a 15 anos	11	22,4
+Sexo da criança			
+Masculino	27	55,1	0,475
+Feminino	22	44,9
+Escolaridade da criança			
+Analfabeto	4	8,2	< 0,001
+1 a 5 anos	33	67,3
+6 a 10 anos	12	24,5
+Terapia atual			
+Hemodiálise	19	38,8	0,679
+Diálise peritoneal	14	28,6
+Transplante	16	32,7
+Tempo de TRS			
+Até 1 ano	14	28,6	0,531
+Acima de 1 a 3 anos	20	40,8
+Acima de 3 anos	15	30,6
+Foi verificado que, na distribuição das características da criança em terapia renal substitutiva, a maioria está há mais de 1 e até 3 anos em TRS (40,8%); tem idade entre 9 a 11 anos (30,6%); é do sexo masculino (55,1%); tem de 1 a 5 anos de estudo (67,3%) e faz atualmente terapia de hemodiálise (38,8%). Esse quantitativo maior de pacientes em hemodiálise ocorreu devido às perdas (1 realizava diálise peritoneal e 8 eram transplantados) no período de coleta de dados. Observa-se que o teste de comparação de proporção foi significativo apenas no fator escolaridade da criança (p-valor < 0,001), indicando que o tempo de estudo de 1 a 5 anos é o fator mais prevalente na amostra em estudo.
+
+Quando questionados sobre a presença de dor crônica, a maioria dos cuidadores afirmou que sente dores pelo corpo (69,4%), sendo a coluna a região mais acometida (45,5%), além de pernas (20,5%) e braços (18,2%), os 15,9% restantes se referem a diversas outras partes do corpo. Além disso, 73,5% deles acreditam que o corpo sofreu mudanças decorrentes do cuidado com a criança/o adolescente com DRC, e 83,7% afirmam que tiveram mudanças no estado emocional após iniciar o cuidado com o paciente (dados não mostrados).
+
+Ao avaliar o histórico de doenças e comorbidades dos cuidadores, percebeu-se que a doença mais prevalente é hipertensão (16,3%), seguida de dislipidemia (6,1%) e por último diabetes mellitus (2%) e depressão (2%). O teste de comparação de proporção foi significativo em todos os fatores avaliados (p-valor < 0,001 para todos), indicando que o número de cuidadores sem comorbidades é relevantemente maior do que os que têm algum tipo de comorbidade (dados não mostrados).
+
+Na Tabela 2 pode ser observada a distribuição da média do escore da Escala Caregiver Burden Scale para a avaliação da sobrecarga do cuidador conforme os domínios: tensão geral, isolamento, decepção, envolvimento emocional, ambiente e sobrecarga total. Observa-se que, em ordem decrescente, o cuidador apresenta maior sobrecarga em fatores como tensão geral (média = 2,33), isolamento (média = 2,15) e decepção (média = 2,12). Os domínios com menores níveis de sobrecarga são: envolvimento emocional (média = 1,49) e ambiente (média = 1,97).
+
+Tabela 2 Distribuição da média do escore da Escala Caregiver Burden Scale para avaliação da sobrecarga do cuidador 
+
+Fator avaliado	Média	Desvio-padrão	p-valor
+Tensão geral	2,33	0,92	
+Isolamento	2,15	0,95	
+Decepção	2,12	0,83	< 0,001
+Envolvimento emocional	1,49	0,78	
+Ambiente	1,97	0,66	
+Sobrecarga total	2,10	0,66	-
+1p-valor do teste de Friedman (se p-valor < 0,05 o nível de sobrecarga difere entre os domínios).
+
+Na Tabela 3 pode ser analisada a distribuição da classificação das escalas de depressão e de ansiedade de Beck. Percebe-se que a maioria dos cuidadores não apresenta depressão ou apresenta nível mínimo de depressão (63,2%). Observa-se que o teste de comparação de proporção foi significativo (p-valor < 0,001), indicando que o número de cuidadores sem problema de depressão é relevantemente maior do que os demais.
+
+Tabela 3 Frequência de sintomas depressivos e ansiosos nos cuidadores pelos BDI e BAI 
+
+ESCALA	N	%	p-value1
+BDI			
+Sem depressão	31	63,2	< 0,001
+Sintomas leves	9	18,4
+Sintomas moderados	4	8,2
+Sintomas graves	5	10,2
+BAI			
+Ansiedade mínima	13	26,5	0.908
+Ansiedade leve	13	26,5
+Ansiedade moderada	13	26,5
+Ansiedade grave	10	20,5
+1p-valor do teste de comparação de proporção (se p-valor < 0,05 os percentuais dos níveis do fator avaliado diferem).
+
+Quanto à ansiedade (Tabela 3), constata-se a mesma proporção de pacientes com ansiedade mínima, leve e moderada (ambas as categorias com 26,5%). Para a ansiedade grave, o percentual de cuidadores foi de 20,5%. O teste de comparação de proporção não foi significativo (p-valor = 0,908), indicando que a distribuição do grau de ansiedade entre os cuidadores é homogênea.
+
+Utilizou-se a média e o desvio-padrão das variáveis de desfecho sobrecarga, depressão e ansiedade para avaliar possível associação com as características dos cuidadores, dos pacientes e do tratamento de DRC por meio de testes de hipótese. Além das variáveis apresentadas na Tabela 1, foram comparadas: profissão, ter alguma religião, receber alguma ajuda financeira, se o cuidador tem alguma doença, se o cuidador tem algum tipo de dor crônica, tempo gasto nos cuidados com a criança adolescente diariamente, se a criança já fez tratamento conservador antes e se realizou outra modalidade de TRS.
+
+Dentre as variáveis avaliadas no teste de comparação de distribuição, apenas a variável dor crônica no cuidador foi significativa quando comparada à depressão (p-valor = 0,024), indicando que o único fator que apresenta associação e aumenta significativamente o nível de depressão do cuidador é a ocorrência de alguma dor crônica pelo corpo. Essa mesma variável e as demais citadas anteriormente não foram significativas quando comparadas à sobrecarga e à ansiedade (todas apresentaram p-valor maior do que 0,05) (dados não mostrados).
+
+Na Tabela 4, está apresentada a análise de correlação entre os escores de sobrecarga, depressão e ansiedade, para avaliar a influência dos escores de depressão e ansiedade como fatores associados ao aumento da sobrecarga dos cuidadores. Verifica-se que a sobrecarga tem alta e significativa correlação com a depressão e a ansiedade. Ainda, observa-se que a depressão e a ansiedade são também altamente correlacionadas. Quando realizado o ajuste do modelo de regressão linear para a sobrecarga dos cuidadores, identifica-se que o aumento de uma unidade do escore de depressão infere no aumento de 0,044 pontos no escore de sobrecarga (constante = 1,628 e p-valor < 0,001). O escore de ansiedade não permaneceu no modelo por causa de sua alta correlação com o escore de depressão.
+
+Tabela 4 Análise de correlação entre os escores de sobrecarga, depressão e ansiedade 
+
+Correlações	r	p-valor
+Sobrecarga x Depressão	0,745	< 0,001
+Sobrecarga x Ansiedade	0,560	< 0,001
+Depressão x Ansiedade	0,750	< 0,001
+Teste de correlação de Pearson. r = nível de correlação.
+
+
+DISCUSSÃO
+
+O perfil dos cuidadores é congruente com o de participantes de outros estudos que demonstram predominância feminina no papel de cuidador principal, desempenhado principalmente pela mãe da criança.15,16,17,18 Essa predominância é explicada pelo papel sociocultural que é atribuído à figura feminina como principal provedora dos cuidados com a família. Na maioria das vezes, a atividade é exercida com dedicação integral, sendo a mãe, além dos outros cuidados requeridos, o único membro da família responsável por ir ao hospital com a criança.16,19 Como cuidadores principais, as mães aceitam maiores responsabilidades do que os outros membros da família e têm mais atribuições de cuidados do que os pais.18,20
+
+A idade média dos pais está dentro da faixa etária de 36 a 45 anos, a maioria tem baixa escolaridade, até o Ensino Fundamental, as famílias enfrentam dificuldades financeiras e a mãe não trabalha. A fonte de renda é garantida pelo pai, que ganha em torno de um salário mínimo, e a renda é complementada por programas sociais.16,18,20
+
+Cimete16 relatou em sua pesquisa que a maioria das crianças/dos adolescentes era do sexo masculino, tinha a doença havia, em média, 5,6 anos e foi tratada por hemodiálise em média durante 3,1 anos, assemelhando-se aos nossos resultados. A idade das crianças/dos adolescentes é bem variável, desde menores de 1 ano a 17 anos, em diversos estudos, devido à raridade da doença em crianças/adolescentes e por não haver grandes diferenças na manifestação da doença de acordo com a faixa etária.17 Em nosso estudo, não foram entrevistados pais de adolescentes acima de 15 anos, visto que estes são transferidos para outros serviços pouco tempo após alcançarem essa idade.
+
+Nossas descobertas mostraram que o índice médio de sobrecarga do cuidador foi de 2,10, considerado um nível moderado. Os valores máximos e mínimos de sobrecarga foram 2,33 e 1,49 nos domínios de tensão geral e envolvimento emocional, respectivamente. A tensão geral avalia distúrbios físicos e emocionais induzidos pela responsabilidade dos cuidados, problemas relacionados ao cuidar e o tempo necessário para prestar atividades de cuidados. Utilizando essa mesma escala, Piran et al.18 e Medynska et al.20 encontraram uma sobrecarga média de 1,92 e 2,39, respectivamente. Os autores relataram a maior sobrecarga de cuidados na tensão geral com médias de 2,26 e 2,32, respectivamente.
+
+Dentre os fatores relatados na literatura que aumentam a sobrecarga dos cuidadores de crianças/adolescentes com DRC, estão quantidade de medicamentos utilizados pela criança/pelo adolescente, especialmente os injetáveis; visitas frequentes ao hospital; necessidade de realizar frequentemente procedimentos complexos; crianças/adolescentes mais dependentes para realizar as atividades diárias; redução de atividades sociais e menores redes de apoio, como, por exemplo, ajuda de outras pessoas, sejam familiares ou amigos.15,21,22
+
+Nosso estudo não obteve relação entre o nível de educação dos cuidadores com a sobrecarga. No entanto, outros estudos indicam que mães com nível de ensino superior relataram menor carga de cuidados, visto que maior escolaridade promove a confiança dos pais no gerenciamento dos problemas de saúde de seus filhos.23 A educação é uma importante fonte de capacidade, visto que afeta a percepção de cuidadores quanto a fatores estressantes, promove sua capacidade de resolução de problemas e flexibilidade mental, afetando positivamente a qualidade de vida.18
+
+Identificou-se que os cuidadores que sofrem de uma doença crônica não apresentam maior sobrecarga do que os saudáveis, entretanto, o fato de sentir alguma dor no corpo está associado a sintomas depressivos nos cuidadores que participaram de nossa pesquisa. Os resultados de outro estudo mostraram que os cuidadores doentes crônicos apresentam mais estresse, e a pontuação no domínio do desapontamento é maior neles.24
+
+O tipo de TRS não influenciou o aumento ou a redução da sobrecarga dos cuidadores, inclusive Tong et al.22 relataram que o transplante não aliviou necessariamente a sobrecarga de cuidados, em vez disso, a natureza das preocupações e dificuldades variou.
+
+Pais de crianças com DRC relatam menor qualidade de vida, dificuldades em gerenciar o cuidado da criança, níveis mais altos de ansiedade e comportamento inadaptado.17,21 A sobrecarga entre cuidadores pode ter consequências muito negativas, dentre elas encontrou-se forte correlação entre sobrecarga com depressão e ansiedade (Tabela 4), corroborando com outro estudo, que demonstra que a sobrecarga do cuidador foi um forte preditor para depressão e ansiedade em pais de crianças com problemas de saúde.25
+
+Observou-se, inclusive, alta prevalência de indivíduos com sintomas depressivos (18,4%) e de ansiedade (47%) moderados a graves, quando comparados à população geral. Dados da OMS (2017)26 estimam que aproximadamente 4,4% da população mundial sofre de depressão e 3,6% de transtornos de ansiedade. Considerando a população brasileira, a depressão e os distúrbios relacionados à ansiedade afetam 5,8% e 9,3% das pessoas que vivem no Brasil, respectivamente. Outros estudos relatam que os índices de depressão e ansiedade são maiores em cuidadores de pacientes crônicos do que na população geral.19,27
+
+A literatura demonstra que, entre os fatores que podem contribuir para a depressão e ansiedade dos pais de crianças/adolescentes com DRC estão: limitações na vida social que a doença impõe aos pais e às crianças, tais como pouco tempo para lazer e restrições líquidas e dietéticas;16-17,21 preocupação dos pais com a aparência, o desenvolvimento e as perspectivas futuras dos filhos; mudanças físicas, emocionais e sociais que a doença causa na criança; dificuldades financeiras e com transporte e acomodações durante internamento hospitalar prolongado.16,21 A maioria dos pais sempre pensa que vai perder os filhos, o que gera muito estresse, pois vivem com uma incerteza emocional permanente sobre o futuro da criança e a evolução da DRC.16-17
+
+Apesar de alguns estudos citarem as dificuldades financeiras devido à baixa renda e o pouco tempo para atividades de lazer devido ao tempo de dedicação do cuidador à criança/ao adolescente com DRC como fatores que podem predispor à depressão e ansiedade em cuidadores, em nosso estudo não foram encontradas associações entre sobrecarga, depressão e ansiedade com as variáveis renda e tempo gasto como cuidador.
+
+Assim como não foram encontradas associações com o aumento de sobrecarga, sintomas depressivos e ansiosos com as outras variáveis sociodemográficas de nosso estudo; estas também não são citadas como fatores de risco em outras pesquisas com crianças/adolescentes com DRC.15-18,20-22
+
+Além das consequências psicológicas, cuidadores com maior sobrecarga também têm problemas com maus hábitos de saúde, e acabam adoecendo em longo prazo,15 pois tendem a negligenciar as próprias necessidades de saúde e renunciar a visitas médicas preventivas, além de não terem uma alimentação saudável nem praticarem atividades físicas. As necessidades da criança e o atendimento a elas são mais importantes, mesmo em detrimento da própria saúde dos pais.15,17
+
+Em cuidados pediátricos, os esforços são comumente focados em fornecer tratamentos que visam suprir às necessidades e monitorar o bem-estar da criança afetada, ao invés de considerar e incluir os pais como alvo de intervenção para beneficiar indiretamente a criança e tornar explícito que os pais merecem atenção por direito próprio, ao considerar o binômio cuidador-paciente.21
+
+Javalkar et al.15 sugerem que intervenções e programas para melhorar a gestão do cuidado dos pacientes podem ajudar a aliviar a carga do cuidador, o que pode ser um resultado secundário importante para ser avaliado por esses programas. Essas estratégias para melhorar o bem-estar intrapessoal devem visar à redução da ansiedade dos pais e aumentar sua confiança para gerenciar os cuidados de um filho doente.21
+
+Os métodos atuais para reduzir a carga do cuidador incluem intervenções para aumentar o conhecimento da doença, programas psicoeducacionais e intervenções educacionais no autocuidado, gestão do estresse e habilidades de comunicação.15,22 Outra estratégia consiste na formação de grupos de apoio, com o objetivo de reduzir a sensação de isolamento, além de socialização e aprendizagem de habilidades de enfrentamento de outros pais em relação à nutrição e ao gerenciamento de cuidados médicos.16,22
+
+
+CONCLUSÃO
+
+Cuidar de uma criança com DRC é uma experiência intensa que traz consequências negativas por causa das dúvidas sobre o futuro e quanto aos cuidados de que essa criança precisa. Isso é expresso por meio do nível médio de sobrecarga identificado nesses cuidadores, juntamente com a alta prevalência de sintomas depressivos e ansiosos nessa população. Através dos testes de hipóteses, não houve significância estatística correlacionando fatores associados ao aumento da sobrecarga, de sintomas ansiosos e depressivos nesses cuidadores, exceto a variável "presença de dor no corpo", que influenciava o desfecho depressão. Não houve grandes alterações nos níveis de sobrecarga, sintomas depressivos e ansiosos entre os cuidadores de crianças/adolescentes que realizam diferentes modalidades de TRS, visto que variaram apenas a natureza de suas preocupações e dificuldades.
+
+Como aspectos positivos do trabalho estão a avaliação concomitante de sobrecarga, sintomas depressivos e ansiosos por meio de escalas validadas numa mesma população; além do fato de não serem encontrados na literatura brasileira estudos de abordagem quantitativa com cuidadores de pacientes pediátricos realizando as três modalidades de TRS, tornando o tema inédito com essa abordagem na realidade brasileira.
+
+As limitações do estudo consistem na pequena população estudada e na realização em um único centro, comprometendo portanto a capacidade de generalização para outras regiões ou contextos socioeconômicos, sendo necessária a realização de outros trabalhos multicêntricos e com populações maiores, para que conclusões mais abrangentes sejam tiradas. E outra limitação se deve ao fato de as prevalências de depressão e ansiedade encontradas não se aplicarem a um diagnóstico, visto que foram utilizados instrumentos de rastreamento.
+
+É preocupante a prevalência de sintomas depressivos e ansiosos nessa população de cuidadores, sendo necessário implementar programas e ações que visam ajudá-los a gerir melhor o cuidado com a criança, assim como seus próprios sentimentos.
+
+
+REFERENCES
+
+1 Ingelfinger JR, Schaefer F, Kalantar-Zadeh K; World Kidney Day Steering Committee. Evitando o legado da doença renal - Foco na infância. J Bras Nefrol 2016;38:2-8. [ Links ]
+
+2 Weschenfelder MC. A experiência da família ao conviver com a criança e o adolescente com insuficiência renal crônica: desvelando novas possibilidades de cuidar em enfermagem [Dissertation]. Florianópolis: Universidade Federal de Santa Catarina; 2014. [ Links ]
+
+3 Harambat J, van Stralen KJ, Kim JJ, Tizard EJ. Epidemiology of chronic kidney disease in children. Pediatr Nephrol 2012;27:363-73. [ Links ]
+
+4 Abreu IS, Kourrouski MFC, Santos DMSS, Bullinger M, Nascimento LC, Lima RAG, et al. Crianças e adolescentes em hemodiálise: atributos associados à qualidade de vida. Rev Esc Enferm USP 2014;48:602-9. [ Links ]
+
+5 Moreira DS, Vieira MRR. Crianças em tratamento dialítico: a assistência pelo enfermeiro. Arq Ciênc Saúde 2010;17:27-34. [ Links ]
+
+6 Deeken JF, Taylor KL, Mangan P, Yabroff KR, Ingham JM. Care for the caregivers: a review of self-report instruments developed to measure the burden, needs, and quality of life of informal caregivers. J Pain Symptom Manage 2003;6:922-53. [ Links ]
+
+7 Legg L, Weir CJ, Langhorne P, Smith LN, Stott DJ. Is informal caregiving independently associated with poor health? A population-based study. J Epidemiol Community Health 2013;67:95-7. [ Links ]
+
+8 Van Exel J, de Graaf G, Brouwer W. Give me a break! Informal caregiver attitudes towards respite care. Health Policy 2008;88:73-87. [ Links ]
+
+9 Rigby H, Gubitz G, Phillips S. A systematic review of caregiver burden following stroke. Int J Stroke 2009;4:285-92. [ Links ]
+
+10 Vincent C, Desrosiers J, Landreville P, Demers L; BRAD group. Burden of caregivers of people with stroke: evolution and predictors. Cerebrovasc Dis 2009;27:456-64. [ Links ]
+
+11 Medeiros MMC, Ferraz MB, Quaresma MR, Menezes AP. Adaptação ao contexto cultural brasileiro e validação do "Caregiver Burden scale". Rev Bras Reumatol 1998;38:193-9. [ Links ]
+
+12 Gorenstein C, Andrade L. Validation of a Portuguese version of the Beck Depression Inventory and the State-Trait Anxiety Inventory in Brazilian Subjects. Braz J Med Biol Res 1996;29:453-7. [ Links ]
+
+13 Cunha JA. Manual da versão em português das Escalas Beck. Casa do Psicólogo: São Paulo; 2001. [ Links ]
+
+14 Farajzadeh A, Akbarfahimi M, Nedjat S, Kohan A, Saberi H. Translation and validation of a caregiver burden scale (CBS) among caregivers of patients with spinal cord injury. J Rehab Med 2016;5:1-12. [ Links ]
+
+15 Javalkar K, Rak E, Phillips A, Haberman C, Ferris M, Van Tilburg M. Predictors of Caregiver Burden among Mothers of Children with Chronic Condition. Children (Basel) 2017;4. pii: E39. [ Links ]
+
+16 Cimete G. Stress factors and coping strategies of parents with children treated by hemodialysis: a qualitative study. J Pediatr Nurs 2002;17:297-306. [ Links ]
+
+17 Geense WW, van Gaal BGI, Knoll JL, Cornelissen EAM, van Achterberg T. The support needs of parents having a child with a chronic kidney disease: a focus group study. Child Care Health Dev 2017;43:831-8. [ Links ]
+
+18 Piran P, Khademi Z, Tayari N, Mansouri N. Caregiving burden of children with chronic diseases. Electron Physician 2017;9:5380-7. [ Links ]
+
+19 Costa FG, Coutinho MPL. Síndrome depressiva: um estudo com pacientes e familiares no contexto da doença renal crônica. Estud Inter Psicol 2016;7:38-55. [ Links ]
+
+20 Medynska A, Zwolinska D, Grenda R, Miklaszewska M, Szczepanska M, Urzykowska A, et al. Psychosocial aspects of children and families treated with hemodialysis. Hemodial Int 2017;21:557-65. [ Links ]
+
+21 Tong A, Lowe A, Sainsbury P, Craig JC. Experiences of parents who have children with chronic kidney disease: a systematic review of qualitative studies. Pediatrics 2008;121:349-60. [ Links ]
+
+22 Tong A, Lowe A, Sainsbury P, Craig JC. Parental perspectives on caring for a child with chronic kidney disease: an in-depth interview study. Child Care Health Dev 2010;36:549-57. [ Links ]
+
+23 Medway M, Tong A, Craig JC, Kim S, Mackie F, McTaggart S, et al. Parental perspectives on the financial impact of caring for a child with CKD. Am J Kidney Dis 2015;65:384-93. [ Links ]
+
+24 Rubira EA, Marcon SR, Belasco AGS, Gaíva MAM, Espinosa MM. Burden and quality of life of caregivers of children and adolescents with chemotherapy treatment for cancer. Acta Paul Enferm 2012;25:567-73. [ Links ]
+
+25 Gallagher S, Phillips AC, Oliver C, Carroll D. Predictors of psychological morbidity in parents of children with intellectual disabilities. J Pediatr Psychol 2008;33:1129-36. [ Links ]
+
+26 World Health Organization (WHO). Depression and Other Common Mental Disorders: Global Health Estimates. Geneva: World Health Organization; 2017; 24 p. [ Links ]
+
+27 Lima AGT, Petribú KCL. Acidente vascular encefálico: revisão sistemática sobre qualidade de vida e sobrecarga de cuidadores. Rev Bras Neurol Psiquiatr 2016;20:253-66. [ Links ]

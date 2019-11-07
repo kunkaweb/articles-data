@@ -1,0 +1,284 @@
+Impactos da Doença Renal Crônica no desempenho ocupacional de crianças e adolescentes em hemodiálise1
+
+Thaís Thaler Souzaa 
+http://orcid.org/0000-0001-6623-4975
+
+Arthur Melo Kummerb 
+http://orcid.org/0000-0003-3941-0931
+
+Ana Cristina Simões e Silvac 
+http://orcid.org/0000-0001-9222-3882
+
+Ana Amélia Cardosoa 
+http://orcid.org/0000-0002-4874-1743
+
+Carla Ribeiro Laged 
+http://orcid.org/0000-0003-0259-3092
+
+aDepartamento de Terapeuta Ocupacional, Universidade Federal de Minas Gerais - UFMG, Belo Horizonte, MG, Brasil.
+
+bGrupo EMS Sigma Pharma, São Paulo, SP, Brasil.
+
+cDepartamento de Pediatria, Universidade Federal de Minas Gerais - UFMG, Belo Horizonte, MG, Brasil.
+
+dUniversidade Federal de Minas Gerais - UFMG, Belo Horizonte, MG, Brasil.
+
+
+RESUMO
+
+Introdução:
+
+O acometimento pela Doença Renal Crônica (DRC) pode trazer impactos importantes em áreas de desempenho ocupacional de crianças e adolescentes em tratamento hemodialítico. A identificação dessas áreas de desempenho prejudicadas pode direcionar a atuação da terapia ocupacional, possibilitando intervenções específicas e criação de políticas e diretrizes na área.
+
+Objetivo:
+
+Identificar o impacto da DRC no desempenho ocupacional de crianças e adolescentes em hemodiálise.
+
+Método:
+
+Participaram do estudo 21 crianças e adolescentes com DRC em tratamento via hemodiálise. Os instrumentos utilizados foram o questionário de identificação do perfil da amostra e a entrevista semiestruturada Medida Canadense de Desempenho Ocupacional (COPM). Os dados da pesquisa foram analisados por meio do programa estatístico SSPS 22.0. As variáveis numéricas foram descritas como medidas de tendência central e dispersão, e para variáveis categóricas foram calculadas as frequências.
+
+Resultados:
+
+Foram identificadas 13 ocupações impactadas, das quais, 9 são relacionadas à área do brincar/lazer , 1 produtividade/escola e 3 ocupações da área de autocuidado. Além disso, 57% da amostra abandonaram a escola e 23% repetiram um ano escolar ou mais.
+
+Conclusão:
+
+Foram identificados prejuízos em diferentes áreas do desempenho ocupacional, principalmente relacionadas ao brincar e lazer. As crianças e adolescentes apresentam demandas específicas dessa faixa etária e o terapeuta ocupacional, considerando essa especificidade, pode possibilitar a esses clientes a melhoria de desempenho em ocupações e a retomada de papéis significativos em suas vidas.
+
+Palavras-chave: Crianças; Adolescentes; Insuficiência Renal Crônica; Terapia Ocupacional; Desempenho Ocupacional
+
+
+1 INTRODUÇÃO
+
+A Doença Renal Crônica (DRC) consiste na perda lenta, progressiva e irreversível da função renal. Trata-se de uma síndrome clínica que se torna mais evidente após a perda de 50% da massa dos néfrons do indivíduo e, em estágios mais avançados, os rins não conseguem manter o equilíbrio metabólico e hídrico (MARQUES; PEREIRA; RIBEIRO, 2005). A perda de função renal é avaliada por meio da redução do Ritmo de Filtração Glomerular (RFG) (NATIONAL..., 2017). As causas mais frequentes de DRC em crianças e adolescentes são as malformações congênitas dos rins e das vias urinárias, seguidas pelas glomerulopatias primárias (ROMÃO JUNIOR, 2006).
+
+Na fase terminal da doença, os tratamentos disponíveis atualmente são as diversas modalidades de tratamento dialítico. Esses tratamentos servem para substituir parcialmente a função renal, aliviando os sintomas da doença e preservando a vida do indivíduo, porém nenhum deles é curativo (SOCIEDADE..., 2017).
+
+Crianças e adolescentes acometidos por DRC passam por processos recorrentes de hospitalização, procedimentos médicos dolorosos, além de restrição em atividades cotidianas, o que pode acarretar alterações em diversos aspectos do desenvolvimento, aumentando risco de alterações comportamentais, não adesão ao tratamento, exclusão por seus pares, absenteísmo e repetência escolar (BIZARRO, 2001; DUQUETTE et al., 2009). Pode-se observar, ainda, redução da capacidade de aprendizagem, além do comprometimento no desenvolvimento físico e cognitivo (WONG et al., 2012).
+
+Em um estudo quantitativo, realizado nos Estados Unidos (VARNI; LIMBERS; BURWINKLE, 2007), para análise de qualidade de vida em 2500 crianças diagnosticadas com doenças crônicas, dentre 33 condições analisadas, a DRC apresentou uma das piores pontuações no autorrelato sobre a qualidade de vida geral, quando comparado com crianças saudáveis e as demais doenças crônicas. Este estudo também mostrou que essas crianças sofrem variados e significativos impactos no funcionamento físico, emocional, social e escolar.
+
+Diversas pesquisas analisam o impacto da DRC na qualidade de vida de crianças e adolescentes (MARCIANO et al., 2010; KILIŚ-PSTRUSIŃSKA et al., 2013; KUL et al., 2013; MOREIRA et al., 2015), porém, há uma limitação na literatura sobre estudos que identificam as ocupações prejudicadas pela doença renal e hemodiálise. Estes estudos são necessários para apontar as/o áreas/problema no desempenho ocupacional, tornando possível o estabelecimento e quantificação das prioridades de intervenção e o reconhecimento do desfecho alvo de cada população (PIOVESAN; TEMPORINI, 1995; LAW et al., 2009). Esse tipo de pesquisa é utilizado para obter informações que mostram as características de uma realidade, auxiliando na construção de uma prática consistente e refletida nas reais necessidades do público alvo (PIOVESAN; TEMPORINI, 1995).
+
+Para que o indivíduo tenha qualidade de vida e saúde íntegra, a realização com independência e autonomia de ocupações significativas é essencial. A terapia ocupacional é a profissão da área da saúde que foca na melhoria do desempenho ocupacional, que pode ser definido como a habilidade em realizar, de maneira eficiente, rotinas, desempenhar papéis e tarefas significativas, promovendo, dessa maneira, satisfação pessoal desses indivíduos, que por alguma condição tenham deixado de desempenhar suas ocupações (CLARK; LAWLOR, 2009; CALDAS et al., 2011).
+
+Segundo o Modelo Canadense de Desempenho Ocupacional (MCDO) (LAW et al., 2009), o desempenho na ocupação resulta da interação entre a pessoa, o ambiente e a ocupação. Para esses autores a pessoa é reconhecida por componentes físico, afetivo e cognitivo, tendo como elemento central o espiritual, o ambiente é caracterizado pelos componentes físico, social, cultural e institucional e as ocupações são classificadas em três categorias: autocuidado, brincar, lazer e produtividade.
+
+Considerando que a DRC apresenta impactos multidimensionais, passando por esferas físicas, sociais e psicológicas, as ocupações significativas destes sujeitos em hemodiálise podem ser de diferentes ordens, contemplando, inclusive, as três categorias propostas pelo MCDO (MARCIANO et al., 2010). Considerando a necessidade de intervenção desses prejuízos ocupacionais, o terapeuta ocupacional é um profissional capacitado para intervir em tais demandas (LAW et al., 2009).
+
+Um estudo, que avaliou o impacto da intervenção terapêutica ocupacional em clientes adultos em hemodiálise, identificou benefícios do tratamento relacionados à melhoria da função emocional, aumento da participação no trabalho, atividades produtivas, cotidianas e sociais, além do aumento significativo da autonomia e da sensação de capacidade, e empoderamento (DELLÊ MADALOSSO; MARIOTTI, 2013). Por fim, os autores destacam a necessidade da inclusão da terapia ocupacional nas equipes de atendimento aos usuários em hemodiálise. Diante desta demanda, vê-se a necessidade de maior fundamentação da prática desta profissão nesta área, além da criação de políticas públicas que incluam efetivamente este profissional nas equipes de atendimento às pessoas com DRC e englobem o público infanto-juvenil.
+
+A atuação da terapia ocupacional no tratamento da DRC é fundamental, pois promove independência e autonomia no desempenho ocupacional de seus clientes nas ocupações impactadas pela doença (GOTO, 2017). Assim, o objetivo deste estudo exploratório é identificar as áreas impactadas pela doença renal crônica em crianças e adolescentes de 9 a 19 anos em hemodiálise, em Belo Horizonte/MG.
+
+
+2 MÉTODO
+
+2.1 Desenho do estudo
+
+Estudo exploratório realizado para identificar as ocupações impactadas pela doença renal crônica no público infanto-juvenil.
+
+2.2 Procedimentos
+
+Os dados dos indivíduos em hemodiálise foram coletados entre agosto/2015 e janeiro/2016. As coletas ocorreram nos dois maiores centros públicos que realizam hemodiálise em crianças e adolescentes da cidade de Belo Horizonte/MG, Hospital das Clínicas e Santa Casa de Misericórdia, que atendem usuários da capital e da região metropolitana. A coleta de dados foi realizada nos dias da sessão de hemodiálise dos participantes, não afetando o tratamento dos mesmos ou onerando as famílias.
+
+2.3 Considerações éticas
+
+A presente pesquisa foi aprovada pelo parecer do Comitê de Ética em Pesquisa/Universidade Federal de Minas Gerais, CAAE nº 47233415.7.00005149, atendendo requisitos preestabelecidos na Resolução n° 196 de 10 de outubro de 1996, do Ministério da Saúde, referente ao desenvolvimento de pesquisa científica envolvendo seres humanos. Além disso, a pesquisa foi cadastrada no Registro Brasileiro de Ensaios Clínicos (REBEC) sob o número RBR-9zqwhv. Os Termos de Consentimento e Assentimento foram encaminhados previamente e respectivamente para os responsáveis e crianças/adolescentes, e só foram incluídos no estudo aqueles que assinaram o Termo de Assentimento, e os pais assinaram o Termo de Consentimento, autorizando a participação das crianças e adolescentes
+
+2.4 Participantes
+
+A amostra foi constituída por 21 crianças e adolescentes com DRC terminal, de ambos os sexos, de qualquer nível socioeconômico, que realizavam tratamento hemodialítico em Belo Horizonte, no Hospital das Clínicas e na Santa Casa de Misericórdia. As crianças e adolescentes realizavam sessões de hemodiálise três vezes por semana, durante quatro horas por dia de tratamento.
+
+Critérios de inclusão: crianças e adolescentes em tratamento hemodialítico que apresentaram autorização formal dos responsáveis para participação através da assinatura Termo de Consentimento Livre e Esclarecido (TCLE) e que permitiram sua participação através do Termo de Assentimento Livre e Esclarecido (TALE).
+
+Critérios de exclusão: incapacidade de compreensão dos objetivos do estudo; comprometimento auditivo ou verbal grave; contraindicação médica para participação; comorbidade neuropsiquiátrica grave associada.
+
+2.5 Instrumentos
+
+O questionário estruturado para construção do perfil da amostra foi elaborado pelos pesquisadores, o mesmo foi preenchido pelos responsáveis das crianças e adolescentes da amostra. Foram coletados dados sobre a idade dos participantes, tempo de doença e de tratamento. Além disso, haviam questões relacionadas à frequência escolar, número de anos repetidos e abandono escolar. Para complementação da formação do perfil da amostra, foi aplicado o questionário para classificação do nível socioeconômica dos participantes (ASSOCIAÇÃO..., 2014).
+
+Com o objetivo de investigar as áreas de desempenho ocupacional prejudicadas nos participantes do estudo, foi utilizada a Medida Canadense de Desempenho Ocupacional (COPM). A COPM é uma entrevista semiestruturada utilizada para auxiliar o cliente a elencar as ocupações prejudicadas devido à sua condição de saúde e possibilita aos participantes também informar sobre sua autopercepção em relação ao seu desempenho ocupacional. Após identificarem as atividades prejudicadas em decorrência da DRC e tratamento hemodialítico, os participantes pontuam de 1 a 10 a importância dessas atividades em suas vidas, depois pontuam de 1 a 10 o seu desempenho nessas atividades e, finalmente, pontuam de 1 a 10 a satisfação em relação ao desempenho nessas atividades.
+
+Publicado pela primeira vez em 1990, o instrumento, desde então, foi traduzido em diversos idiomas e utilizado em vários países, inclusive no Brasil, tanto para pesquisa quanto para a prática clínica (LAW et al., 2009). A medida abrange três áreas de desempenho ocupacional: autocuidado, produtividade e lazer (LAW et al., 2009).
+
+A utilização da COPM em crianças e adolescentes com DRC em tratamento hemodialítico pode possibilitar a identificação de áreas e ocupações prejudicadas, pois o instrumento oferece dados quantitativos em relação às prioridades do participante e auxilia na estruturação de projetos terapêuticos (LAW et al., 2009). Por esta pesquisa tratar-se de um estudo exploratório, este instrumento foi utilizado apenas para identificar ocupações impactadas pela DRC em crianças e adolescentes em hemodiálise.
+
+3 Análise Estatística
+
+A análise dos dados foi realizada por meio do programa estatístico SPSS 22.0 (Statistical Package for the Social Sciences). Para as variáveis numéricas, tanto discretas quanto contínuas, os dados foram descritos como medidas de tendência central (média e mediana) e dispersão (desvio-padrão, valores mínimo e máximo). Para as variáveis categóricas foram calculadas as frequências absolutas e relativas (percentual).
+
+
+4 RESULTADOS
+
+Todas as crianças e adolescentes com DRC em tratamento hemodialítico no Hospital das Clínicas e na Santa Casa de Misericórdia, foram convidados a participar da pesquisa, totalizando-se 26 participantes. Destes, cinco foram excluídos, pois, quatro não tinham capacidade cognitiva para compreensão dos objetivos do estudo e um recusou-se a participar, totalizando-se, assim, 21 participantes.
+
+De acordo com o questionário estruturado para a construção do perfil da amostra, dentre os 21 participantes, foi observado predomínio do sexo masculino, com 16 meninos (76% da amostra), e média de idade de 13,4±2,8 anos. A caracterização da amostra, considerando aspectos clínicos, sexo e condições socioeconômicas, está disponível na Tabela 1.
+
+Tabela 1 Caracterização dos participantes da pesquisa, aspectos clínicos, sexo e condições socioeconômicas. 
+
+AMOSTRA (n=21)
+IDADE	
+Média em anos ± desvio padrão	13,4 ± 2,8
+Mediana (min-max)	13,4 (9-19)
+TEMPO DE DOENÇA (DIAS)	
+Média ± desvio padrão	2179,7 ± 1072,8
+Mediana (min-max)	1826,0 (7-5110)
+TEMPO DE TRATAMENTO (DIAS)	
+Média ± desvio padrão	778,1 ± 736,9
+Mediana (min-max)	665,0 (3-2922)
+SEXO MASCULINO	16 (76,2%)
+SEXO FEMININO	5 (23,8%)
+CONDIÇÃO SÓCIOECONÔMICA	
+De B1 a C2*	9 (42,8%)
+D**	12 (57,2%)
+* B1 a C2 = de alta classe média à classe vulnerável; **D = pobre, mas não extremamente pobre.
+
+Na tabela 2 são apresentadas as características dos participantes em relação à sua vida escolar.
+
+Tabela 2 Caracterização dos participantes da pesquisa em relação à escolaridade. 
+
+AMOSTRA (n=21)
+REPETENTES	8 (38,1%)
+FREQUÊNCIA DE REPETÊNCIA	
+1 ano	4 (50,0%)
+2 anos ou mais	4 (50,0%)
+PARARAM DE ESTUDAR	12 (57,1%)
+ESCOLARIDADE (anos)	
+Média ± desvio padrão	6,7 ± 2,4
+Mediana (min - max)	6 (3-11)
+Por meio da aplicação do questionário COPM, os participantes citaram as ocupações prejudicadas em decorrência da DRC e do tratamento hemodialítico. As ocupações mais citadas foram: jogar bola (57,1%), viajar (19%), ir à escola (19%), andar de bicicleta (14,3%), nadar (14,3%) e desenhar (9,5%), (Tabela 3). A ocupação com maior nota média de importância foi “ir à escola” (9,0±2,0); dentre as ocupações mais citadas, a pior nota de desempenho média foi para “andar de bicicleta” (1,00±0,0) e pior satisfação também foi para “andar de bicicleta” (1,0±0,0), (Tabela 3).
+
+Tabela 3 Ocupações identificadas como prejudicadas em decorrência da DRC e tratamento hemodialítico. 
+
+OCUPAÇÕES	FREQUÊNCIA	IMPORTÂNCIA	DESEMPENHO	SATISFAÇÃO
+Jogar Bola	12 (57,1%)	9,0 ± 2,4	2,8 ± 2,2	2,8 ± 1,9
+Viajar	4 (19,0%)	8,8 ± 2,5	4,0 ± 3,8	3,0 ± 3,4
+Ir à Escola	4 (19,0%)	9,0 ± 2,0	2,0 ± 2,0	1,8 ± 1,5
+Andar de Bicicleta	3 (14,3%)	7,0 ± 3,0	1,0 ± 0,0	1 ± 0,0
+Nadar	3 (14,3%)	8,7 ± 2,3	2,3 ± 2,3	1,7 ± 1,2
+Desenhar	2 (9,5%)	8,0 ± 2,8	2,0 ± 1,4	1,0 ± 0,0
+Caminhar	1 (4,8%)	10	5	3
+Fazer Compras	1 (4,8%)	5	6	5
+Ir à Festas	1 (4,8%)	10	10	10
+Fazer Comida	1 (4,8%)	10	6	7
+Pular Corda	1 (4,8%)	6	1	1
+Treinar na Academia	1 (4,8%)	3	1	2
+Tomar Banho	1 (4,8%)	10	1	1
+
+
+5 DISCUSSÃO
+
+A amostra do presente estudo conteve predominância do sexo masculino. Segundo Nogueira et al. (2011), esta relação de proporção entre os sexos feminino e masculino pode ser representada pela razão de 1:1,5. A literatura justifica a predominância do sexo masculino para a DRC devido à maior frequência de alterações congênitas do trato urinário deste público (BECHERUCCI et al., 2016).
+
+Em relação aos problemas de desempenho ocupacional mencionados por crianças e adolescentes com DRC em hemodiálise, o maior número de ocupações afetadas foi nas áreas de desempenho ocupacional relacionadas ao brincar, lazer e produtividade. O lazer pode ser conceituado como ocupações que são motivadas intrinsecamente e não são de caráter obrigatório, ou seja, não ocupa o tempo das responsabilidades diárias como trabalho, autocuidado ou sono. O brincar corresponde às ocupações espontâneas que proporcionam bem-estar, alegria e diversão (SOUSA CARLETO et al., 2011).
+
+As crianças e adolescentes denunciam, através da COPM, que estão enfrentando barreiras e dificuldades em desempenhar o papel de brincantes e usufruir de ocupações de lazer. Considerando que as atividades lúdicas na infância e adolescência constituem a base para a boa construção dos conteúdos intelectuais e para o estabelecimento das capacidades necessárias para a competência na vida adulta, as alterações nessas áreas podem causar alterações no desenvolvimento (REZENDE, 2008).
+
+Foi identificado, também, uma frequência alta do número de indivíduos que citou “jogar bola” como ocupação de brincar/lazer prejudicada. Segundo Finco (2003), o brincar é uma experiência cultural, portanto, concepções e comportamentos são esperadas e estimuladas de acordo com gênero. Considerando o maior número de indivíduos do sexo masculino, devido a maior incidência de DRC sobre esse público, esta poderia ser uma justificativa para alta citação de “jogar bola” como prejudicada na COPM, que, culturalmente, é uma ocupação ligada ao gênero masculino.
+
+O contexto hospitalar pode fazer a criança sentir-se inserida em um ambiente desconhecido, aliado a uma rotina de diversos procedimentos invasivos, trazendo uma gama de sentimentos negativos em relação às mudanças ocorridas (GIARDIN et al., 2010). Diante disso, o terapeuta ocupacional tem como objetivo central atuar dentro dessas unidades de atendimento, promovendo autonomia e independência na rotina de seus clientes, colaborando, assim, para a saúde mental dos usuários do serviço (GIARDIN et al., 2010). Além disso, esse profissional promove dentro deste contexto uma re-humanização das práticas do serviço, não apenas estimulando a capacidade funcional e desempenho ocupacional, mas, também, realizando orientações para alta e acompanhando sua readaptação ao ambiente domiciliar (DE CARLO, 2006).
+
+As crianças e adolescentes entrevistados no estudo realizam o processo de hemodiálise três vezes por semana e cada sessão tem a duração de, aproximadamente, quatro horas no serviço. Consequentemente, a rotina dos participantes é prejudicada, pois eles são privados de realizar as ocupações do cotidiano, que colaboram para o desenvolvimento global do ser humano. Uma solução para a quebra desse padrão de tratamento pode estar relacionada à inserção de atividades lúdicas dentro do contexto hospitalar, intervenção citada com frequência na literatura por sua eficácia e importância para o desenvolvimento infantil (VIEGAS; SANTOS, 1997; PAULA; GIL; MARCON, 2002; MITRE; GOMES, 2004; DRUMMOND et al., 2009). Através de publicações de estudos que identifiquem as ocupações deficitárias, é possível a construção de medidas públicas e estratégias de intervenção que beneficiem esse público.
+
+A área de ocupação de autocuidado também se apresentou prejudicada pela DRC e processo de hemodiálise, com destaque para tomar banho, fazer comida e fazer compras. A terapia ocupacional, dentro desse contexto, pode buscar avaliar os fatores que impedem ou dificultam a realização dessas ocupações e, com isso, traçar um plano de intervenção que promova autonomia e independência para esse indivíduo, auxiliando-o a desempenhar essas ocupações da melhor forma possível (SOUSA CARLETO et al., 2011). Para que isso ocorra, há uma gama de intervenções que esse profissional pode utilizar, como, por exemplo, o tratamento de componentes neuromusculares para melhoria de função, manuseio de dor, câimbras e fadigas nos membros superiores, estimulação cognitiva, aprimoramento da coordenação motora fina e grossa, entre outros. O terapeuta ocupacional pode, ainda, trabalhar com o treinamento ou adaptação de ocupações como banho, escrita, vestir, entre outros (NUSSBAUM; GARCIA, 2009).
+
+Os resultados do presente estudo mostram que a ocupação “ir à escola” foi citada com alto nível de importância e foi prejudicada devido à ocorrência da DRC e processo de hemodiálise e mais da metade dos indivíduos entrevistados relataram abandono escolar. Isso pode estar ocorrendo devido à frequência das sessões de hemodiálise e o período que os participantes ficam no hospital, prejudicando a participação escolar. No entanto, o ambiente escolar é fundamental para o desenvolvimento de crianças e adolescentes, pois a escola possibilita construir, ampliar e manter vínculos, promover interação social e ampliar o conhecimento intelectual (ABREU et al., 2014).
+
+Resultado semelhante, sobre a importância da escola para crianças adolescentes que realizam hemodiálise, foi encontrado no estudo exploratório descritivo de Abreu et al. (2014). Após análise qualitativa dos depoimentos coletados, os autores observaram que a interrupção das atividades escolares é uma variável de grande importância na vida dessas crianças e adolescentes, sendo citada em diversos momentos pelos participantes. No estudo qualitativo de Santos Pennafort, Queiroz e Jorge (2012), os participantes mostraram o desejo de continuar estudando e relataram obstáculos para conseguir frequentar o ambiente escolar.
+
+Segundo a Associação Americana de Terapia Ocupacional (AOTA), que propôs uma terminologia uniforme para os serviços em terapia ocupacional:
+
+As ocupações são os vários tipos de atividades cotidianas nas quais indivíduos, grupos ou populações se envolvem, incluindo AVD [Atividade de Vida Diária], AIVD [Atividade Instrumental de Vida Diária], descanso e sono, educação, trabalho, brincar, lazer, e participação social (AMERICAN..., 2015, p. 19).
+
+A “educação”, para a terapia ocupacional, representa, portanto, objeto de avaliação e intervenção do terapeuta ocupacional. Dentro do contexto da educação, a profissão iniciou historicamente sua trajetória por meio da “Educação Especial”. No entanto, com o processo de redemocratização no país, nos anos 80, e a instituição de políticas de inclusão, há uma ruptura da visão sobre as patologias e disfunção, que se desloca para os processos de ensino-aprendizagem. Recentemente, uma nova configuração para a terapia ocupacional dentro da educação foi proposta, a de compreender esse indivíduo em seu cotidiano e contexto, o sujeito torna-se coletivo e a intervenção toma conotações relacionais. Com isso, cabe ao terapeuta ocupacional assumir o papel de facilitador de construção de soluções para o desempenho dessa ocupação pelo sujeito em seu contexto (ROCHA, 2007).
+
+O terapeuta ocupacional, dentro do contexto escolar, pode auxiliar essa população no resgate do papel de estudante, auxiliando estes sujeitos a desempenharem esta ocupação, citada neste estudo como significativa. Para isso, cabe a este profissional desenvolver diálogos com os educadores, alunos, comunidade e pais, identificando e desfazendo as possíveis barreiras para o desempenho desta ocupação. Barreiras estas que podem passar por diferentes bloqueios arquitetônicos, mobiliário/material pedagógico, capacitação do profissional, adaptação do currículo e introdução de novas formas participação em ocupações (ROCHA; LUIZ; ZULIAN, 2003).
+
+Sabe-se que o processo de saúde e o conceito de qualidade de vida estão diretamente ligados à capacidade do cliente em envolver-se em ocupações significativas e de estar em interação com diferentes ambientes, como domicílio, escola, comunidade, e assim por diante. Frente à realidade em que se encontram as crianças e adolescentes em hemodiálise, o terapeuta ocupacional apresenta-se como o profissional responsável pela identificação e intervenção das ocupações prejudicadas, bem como, os fatores que possam interferir nestas e no processo de saúde (SOUSA CARLETO et al., 2011).
+
+Devido ao número restrito de participantes e em função da procedência da amostra das crianças e adolescentes com DRC ser de apenas dois centros específicos, ou seja, sem aleatoriadade e diversificação da origem da população analisada, o presente estudo apresentou limitações. Além disso, a grande variação entre o tempo de tratamento dialítico dos sujeitos participantes pode ser uma variável de confusão. No entanto, apesar das limitações, esse é um passo importante para o aprimoramento do atendimento a crianças e adolescentes com DRC em tratamento de hemodiálise.
+
+
+6 CONCLUSÃO
+
+A doença renal crônica e o tratamento via hemodiálise trazem diversas consequências para o cotidiano e desenvolvimento de crianças e adolescentes que vivem essa realidade. Neste estudo, foram identificados efeitos prejudiciais em diferentes áreas do desempenho ocupacional dos participantes e as ocupações impactadas por este processo, relacionadas principalmente ao brincar, lazer e produtividade.
+
+As crianças e adolescentes em tratamento hemodialítico também apresentam dificuldades em continuar os estudos. Foi possível identificar alto índice de abandono escolar devido ao tratamento de hemodiálise, que impossibilita uma frequência letiva adequada e impede a participação ativa do processo de aprendizagem e convívio social. Além disso, “ir à escola” foi citada como ocupação de alto nível de importância que foi prejudicada pela patologia e seu tratamento.
+
+Clientes pediátricos apresentam necessidades inerentes à faixa etária e, consequentemente, requerem abordagem terapêutica diferenciada em relação às áreas de ocupação típicas dessa fase do desenvolvimento. O presente estudo, ao realizar o levantamento dos principais impactos no desempenho ocupacional, vivenciados por crianças e adolescentes com DRC, poderá facilitar a criação de políticas públicas e aprimoramento das intervenções específicas para esse público. Além de melhorar a qualidade de vida, tanto dos usuários do serviço de diálise, quanto dos responsáveis diretos e familiares, através da promoção da autonomia e independência nas atividades do cotidiano de indivíduos que tiveram suas ocupações prejudicadas devido ao processo da doença.
+
+
+REFERÊNCIAS
+
+ABREU, I. S. et al. Children and adolescents on hemodialysis: attributes associated with quality of life. Revista da Escola de Enfermagem da USP, São Paulo, v. 48, n. 4, p. 601-609, 2014. [ Links ]
+
+ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE PESQUISA - ABEP. São Paulo. Disponível em: <http://www.abep.org/criterio-brasil>. Acesso em: 22 fev. 2014. [ Links ]
+
+AMERICAN OCCUPATIONAL THERAPY ASSOCIATION - AOTA. Estrutura da prática da terapia ocupacional: domínio e processo. Revista de Terapia Ocupacional da USP, São Paulo, v. 26, p. 1-49, 2015. Número Especial. http://dx.doi.org/10.11606/issn.2238-6149.v26iespp1-49. [ Links ]
+
+BECHERUCCI, F. et al. Chronic kidney disease in children. Clinical Kidney Journal, Oxford, v. 9, n. 4, p. 583-591, 2016. http://dx.doi.org/10.1093/ckj/sfw047. [ Links ]
+
+BIZARRO, L. O bem-estar psicológico de adolescentes com insuficiência renal crónica. Psicologia, Saúde & Doenças, Lisboa, v. 2, n. 2, p. 55-67, 2001. [ Links ]
+
+CALDAS, A. S. C. et al. O uso da Medida Canadense. Revista de Terapia Ocupacional da USP, São Paulo, v. 22, n. 3, p. 238-244, 2011. [ Links ]
+
+CLARK, F.; LAWLOR, M. The making and mattering of occupational science. In: CREPEAU, E.; COHN, E.; SCHELL, B. Willard & Spackman - Occupational Therapy. Philadelphia: Wolters Klover Lippincott Williams & Wilkins, 2009. p. 02-14. [ Links ]
+
+DE CARLO, M. Terapia Ocupacional em contextos hospitalares. Revista Prática Hospitalar, São Paulo, n. 43, p. 158-164, 2006. [ Links ]
+
+DELLÊ MADALOSSO, F.; MARIOTTI, M. C. Terapia Ocupacional e qualidade de vida de pessoas com insuficiência renal crônica em hemodiálise. Cadernos de Terapia Ocupacional da UFSCar, São Carlos, v. 21, n. 3, p. 511-520, 2013. [ Links ]
+
+DRUMMOND, I. et al. A inserção do lúdico no tratamento da SIDA pediátrica. Análise Psicológica, Lisboa, v. 27, n. 1, p. 33-43, 2009. [ Links ]
+
+DUQUETTE, P. J. et al. Neurodevelopmental status and adaptive behaviors in preschool children with chronic kidney disease. The Journal of Special Education, Thousand Oaks, v. 43, n. 1, p. 45-51, 2009. http://dx.doi.org/10.1177/0022466907313351. [ Links ]
+
+FINCO, D. F. Relações de gênero nas brincadeiras de meninos e meninas na educação infantil. Pro-posições, Campinas, v. 14, n. 3, p. 89-101, 2003. [ Links ]
+
+GIARDIN, A. R. D. S. B. et al. A importância da atuação da terapia ocupacional com a população infantil hospitalizada: a visão de profissionais da área da saúde. Cadernos de Terapia Ocupacional da UFSCar, São Carlos, v. 17, n. 1, p. 63-69, 2010. [ Links ]
+
+GOTO, Y. Renal rehabilitation in occupational therapy for patients with chronic kidney disease. Physical Medicine and Rehabilitation, Canada, v. 2, n. 5, p. 1-3, 2017. http://dx.doi.org/10.15761/ PMRR.1000S1001. [ Links ]
+
+KILIŚ-PSTRUSIŃSKA, K. et al. Perception of health-related quality of life in children with chronic kidney disease by the patients and their caregivers: Multicentre national study results. Quality of Life Research, Netherlands, v. 22, n. 10, p. 2889-2897, 2013. http://dx.doi.org/10.1007/s11136-013-0416-7. [ Links ]
+
+KUL, M. et al. Quality of life in children and adolescents with chronic kidney disease: a comparative study between different disease stages and treatment modalities. Turkish Journal of Pediatrics, Ankara, v. 55, n. 5, p. 493-499, 2013. [ Links ]
+
+LAW, M. et al. Medida canadense de desempenho ocupacional - COPM. Belo Horizonte: Editora UFMG, 2009. [ Links ]
+
+MARCIANO, R. C. et al. Transtornos mentais e qualidade de vida em crianças e adolescentes com doença renal crônica e em seus cuidadores. Jornal Brasileiro de Nefrologia, São Paulo, v. 32, n. 3, p. 316-322, 2010. http://dx.doi.org/10.1590/S0101-28002010000300014. [ Links ]
+
+MARQUES, A. B.; PEREIRA, D. C.; RIBEIRO, R. Motivos e frequência de internação dos pacientes com IRC em tratamento hemodialítico. Arquivos de Ciências da Saúde, Rio Preto, v. 12, n. 2, p. 67-72, 2005. [ Links ]
+
+MITRE, R. M. D. A.; GOMES, R. A promoção do brincar no contexto da hospitalização infantil como ação de saúde. Ciência & Saúde Coletiva, Rio de Janeiro, v. 9, n. 1, p. 147-154, 2004. http://dx.doi.org/10.1590/S1413-81232004000100015. [ Links ]
+
+MOREIRA, J. M. et al. Anxiety, depression, resilience and quality of life in children and adolescents with pre-dialysis chronic kidney disease. Pediatric Nephrology, Berlin, v. 30, n. 12, p. 2153-2162, 2015. http://dx.doi.org/10.1007/s00467-015-3159-6. [ Links ]
+
+NATIONAL KIDNEY FOUNDATION - NKF. New York, 2017. Disponível em: <http://www.kidney.org/kidneydisease/aboutckd>. Acesso em: 02 nov. 2017. [ Links ]
+
+NOGUEIRA, P. C. K. et al. Prevalência estimada da doença renal crônica terminal em crianças no Estado de São Paulo. Revista da Associação Médica Brasileira, São Paulo, v. 57, n. 4, p. 443-449, 2011. http://dx.doi.org/10.1590/S0104-42302011000400020. [ Links ]
+
+NUSSBAUM, J.; GARCIA, R. K. Restorative physical and occupational therapy: a critical need for patients with chronic kidney and end-stage renal disease. Advances in chronic kidney disease, Philadelphia, v. 16, n. 6, p. 529-535, 2009. [ Links ]
+
+PAULA, E. M. A.; GIL, J. D.; MARCON, A. Brinquedotecas em hospitais: uma conquista nova, para novos tempos. Temas sobre desenvolvimento, São Paulo, v. 11, n. 62, p. 23-32, 2002. [ Links ]
+
+PIOVESAN, A.; TEMPORINI, E. R. Pesquisa exploratória: procedimento metodológico para o estudo de fatores humanos no campo da saúde pública. Revista de Saúde Pública, São Paulo, v. 29, n. 4, p. 318-325, 1995. http://dx.doi.org/10.1590/S0034-89101995000400010. [ Links ]
+
+REZENDE, M. O brincar e a terapia ocupacional. In: DRUMMOND, A. D. F.; REZENDE, M. B. Intervenções da terapia ocupacional. Belo Horizonte: Editora UFMG, 2008. p. 25-44. [ Links ]
+
+ROCHA, E. F. A Terapia Ocupacional e as ações na educação. Revista de Terapia Ocupacional da Universidade de São Paulo, São Paulo, v. 18, n. 3, p. 122-127, 2007. http://dx.doi.org/10.11606/issn.2238-6149.v18i3p122-127. [ Links ]
+
+ROCHA, E. F.; LUIZ, A.; ZULIAN, M. A. R. Reflexões sobre as possíveis contribuições da terapia ocupacional nos processos de inclusão escolar. Revista de Terapia Ocupacional da Universidade de São Paulo, São Paulo, v. 14, n. 2, p. 72-78, 2003. http://dx.doi.org/10.11606/issn.2238-6149.v14i2p72-78. [ Links ]
+
+ROMÃO JUNIOR, J. Epidemiologia da doença crônica no Brasil. Jornal Brasileiro de Nefrologia, São Paulo, v. 29, n. 3, p. 187-198, 2006. http://dx.doi.org/10.1590/1414-462X201700030134. [ Links ]
+
+SANTOS PENNAFORT, V. P.; QUEIROZ, M. V. O.; JORGE, M. S. B. Crianças e adolescentes renais crônicos em espaço educativo-terapêutico: subsídios para o cuidado cultural de enfermagem. Revista da Escola de Enfermagem da Universidade da USP, São Paulo, v. 46, n. 5, p. 1057-1065, 2012. [ Links ]
+
+SOCIEDADE BRASILEIRA DE NEFROLOGIA - SBN. São Paulo, 2017. Disponível em: <http://sbn.org.br/publico/>. Acesso em: 23 out. 2017. [ Links ]
+
+SOUSA CARLETO, D. G. et al. Estrutura da prática da Terapia Ocupacional: Domínio e processo. Revista Triângulo, Uberaba, v. 3, n. 2, p. 57-147, 2011. [ Links ]
+
+VARNI, J. W.; LIMBERS, C. A.; BURWINKLE, T. M. Impaired health-related quality of life in children and adolescents with chronic conditions: a comparative analysis of 10 disease clusters and 33 disease categories/severities utilizing the PedsQL™ 4.0 Generic Core Scales. Health and quality of life outcomes, London, v. 5, n. 1, p. 1-15, 2007. [ Links ]
+
+VIEGAS, D.; SANTOS, S. Brinquedoteca hospitalar - A experiência de Santo André. In: SANTOS, S. M. P. (Org.). Brinquedoteca: o lúdico em diferentes contextos. Rio de janeiro: Vozes, 1997. p. 101-105. [ Links ]
+
+WONG, C. J. et al. CKiD (CKD in children) prospective cohort study: a review of current findings. American Journal of Kidney Diseases, Philadelphia, v. 60, n. 6, p. 1002-1011, 2012. http://dx.doi.org/10.1053/j.ajkd.2012.07.018. [ Links ]
